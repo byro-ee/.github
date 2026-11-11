@@ -9,3 +9,4 @@ Byro (byro.ee) is not the membership administration software byro (byro.cloud, g
 - [About Byro](https://github.com/byro-ee/byro): what Byro does, research and links
 - [Byro plugin for Claude Code](https://github.com/byro-ee/claude-plugins)
 - [Research](https://byro.ee/research): Baltic LinkedIn Substance Index 2026, What AI assistants believe about Byro
+- [Blog](https://byro.ee/blog): comparisons of Taplio, Supergrow, Virio, Oiti, Meet Sona and Leaps for B2B teams, with prices checked on vendor pages
